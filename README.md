@@ -1,4 +1,4 @@
-# Implicit-Neural-Representation-INR-for-3D-Mesh-Reconstruction-and-Compression-using-SIREN
+# Implicit Neural Representation INR for 3D Mesh Reconstruction and Compression using SIREN
 
 This project explores the application of Implicit Neural Representations (INRs), specifically using a Sinusoidal Representation Network (SIREN), for 3D mesh reconstruction and compression. 
 The methodology involves generating a Signed Distance Function (SDF) dataset by sampling points both on and in the vicinity of the mesh surface (Stanford Bunny), followed by normalization.
